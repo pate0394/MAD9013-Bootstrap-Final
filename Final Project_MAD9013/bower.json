@@ -1,0 +1,23 @@
+{
+  "name": "MAD-9013",
+  "authors": [
+    "Kalgi Patel (E-mail: pate0394@algonquinlive.com)"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha",
+    "jquery": "~2.1.4"
+  }
+}

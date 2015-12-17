@@ -1,0 +1,29 @@
+body{
+    font-family: 'Merriweather', serif;
+    background-color:#B2AF8C;
+}
+.bg-faded {
+    background-color: #CCBC17;
+}
+.mycontain{
+  padding-left:26%;padding-right:26%;
+}
+.myrow{
+     background-color:#1494B2; 
+}
+.h2_size{
+   font-size: 31px;
+}
+.navigation{
+   font-family: 'Libre Baskerville', serif;
+    
+}
+h4{
+   margin-top: 10%;
+}
+.card{
+  background-color: #FF3D85;
+}
+.btn-info{
+  background-color: #36D9FF;
+}
